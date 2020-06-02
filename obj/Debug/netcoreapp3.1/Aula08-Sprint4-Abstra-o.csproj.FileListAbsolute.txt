@@ -1,0 +1,13 @@
+C:\Users\amand\Documents\Projeto senai\Aula08-Sprint4-Abstra-o\bin\Debug\netcoreapp3.1\Aula08-Sprint4-Abstra-o.exe
+C:\Users\amand\Documents\Projeto senai\Aula08-Sprint4-Abstra-o\bin\Debug\netcoreapp3.1\Aula08-Sprint4-Abstra-o.deps.json
+C:\Users\amand\Documents\Projeto senai\Aula08-Sprint4-Abstra-o\bin\Debug\netcoreapp3.1\Aula08-Sprint4-Abstra-o.runtimeconfig.json
+C:\Users\amand\Documents\Projeto senai\Aula08-Sprint4-Abstra-o\bin\Debug\netcoreapp3.1\Aula08-Sprint4-Abstra-o.runtimeconfig.dev.json
+C:\Users\amand\Documents\Projeto senai\Aula08-Sprint4-Abstra-o\bin\Debug\netcoreapp3.1\Aula08-Sprint4-Abstra-o.dll
+C:\Users\amand\Documents\Projeto senai\Aula08-Sprint4-Abstra-o\bin\Debug\netcoreapp3.1\Aula08-Sprint4-Abstra-o.pdb
+C:\Users\amand\Documents\Projeto senai\Aula08-Sprint4-Abstra-o\obj\Debug\netcoreapp3.1\Aula08-Sprint4-Abstra-o.csprojAssemblyReference.cache
+C:\Users\amand\Documents\Projeto senai\Aula08-Sprint4-Abstra-o\obj\Debug\netcoreapp3.1\Aula08-Sprint4-Abstra-o.csproj.CoreCompileInputs.cache
+C:\Users\amand\Documents\Projeto senai\Aula08-Sprint4-Abstra-o\obj\Debug\netcoreapp3.1\Aula08-Sprint4-Abstra-o.AssemblyInfoInputs.cache
+C:\Users\amand\Documents\Projeto senai\Aula08-Sprint4-Abstra-o\obj\Debug\netcoreapp3.1\Aula08-Sprint4-Abstra-o.AssemblyInfo.cs
+C:\Users\amand\Documents\Projeto senai\Aula08-Sprint4-Abstra-o\obj\Debug\netcoreapp3.1\Aula08-Sprint4-Abstra-o.dll
+C:\Users\amand\Documents\Projeto senai\Aula08-Sprint4-Abstra-o\obj\Debug\netcoreapp3.1\Aula08-Sprint4-Abstra-o.pdb
+C:\Users\amand\Documents\Projeto senai\Aula08-Sprint4-Abstra-o\obj\Debug\netcoreapp3.1\Aula08-Sprint4-Abstra-o.genruntimeconfig.cache
